@@ -1,0 +1,28 @@
+hr{
+    height: 5pxpx;
+    width: 80%; ;
+}
+pre{
+    color: orangered;
+}
+#head div{
+    border-color: blue;
+    width: 80%;
+    height: 60%;
+    background-color: darkgray;
+    font-size: x-large;
+}
+table,tr,td{
+    border-color: blue;
+    width: 80%;
+    height: 60%;
+    background-color: darkgray;
+    font-size: x-large;
+}
+img{
+    border-radius: 800px 800px 800px;
+    width: 30%;
+    caption-side: top;
+    
+}
+
